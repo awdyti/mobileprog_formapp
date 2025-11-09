@@ -1,0 +1,2 @@
+- [x] Add mounted check in _clearData method before using ScaffoldMessenger.of(context)
+- [x] Add mounted checks in _handleLogin method before each ScaffoldMessenger.of(context) and _showSuccessDialog() call
